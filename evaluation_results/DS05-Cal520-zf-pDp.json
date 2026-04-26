@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 2,
+    "TP": 50,
+    "FP": 114,
+    "TN": 734,
+    "FN": 1,
+    "Precision": 0.3049,
+    "Recall": 0.9804,
+    "F1_Score": 0.4651,
+    "Balanced_Accuracy": 0.923,
+    "dataset_name": "DS05-Cal520-zf-pDp",
+    "optimal_lambda": 0.0019679532756209372
+}
