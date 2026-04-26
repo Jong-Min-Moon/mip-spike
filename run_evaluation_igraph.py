@@ -32,7 +32,7 @@ def run_evaluation():
         
         try:
             # Get the data (index 1 as requested)
-            y = datasets[name][1]
+            y = datasets[name][0]
             
             # Tune lambda using spp_igraph
             # Note: spp_igraph is imported from util_mip

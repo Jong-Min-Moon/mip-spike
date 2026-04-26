@@ -58,7 +58,7 @@ def run_evaluation():
             with open(result_path, 'w') as f:
                 json.dump(eval_result, f, indent=4)
             
-            print(f"Successfully saved igraph results for {name}")
+            print(f"Successfully saved jewell results for {name}")
 
         except Exception as e:
             print(f"Error processing {name}: {str(e)}")
