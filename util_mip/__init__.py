@@ -4,3 +4,4 @@ from .estimate_alpha_ar1 import estimate_alpha_ar1
 from .estimate_noise_variance_psd import estimate_noise_variance_psd
 from .reconstruct_optimal_s import reconstruct_optimal_s
 from .tune_lambda_via_noise_constraint import tune_lambda_via_noise_constraint
+#from .spp_igraph import spp as spp_igraph

@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 100,
+    "TP": 17,
+    "FP": 911,
+    "TN": 3166,
+    "FN": 0,
+    "Precision": 0.0183,
+    "Recall": 1.0,
+    "F1_Score": 0.036,
+    "Balanced_Accuracy": 0.8883,
+    "dataset_name": "DS03-Cal520-m-S1",
+    "optimal_lambda": 0.8697509865596009
+}

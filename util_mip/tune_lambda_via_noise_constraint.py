@@ -16,8 +16,8 @@ def tune_lambda_via_noise_constraint(y, estimator, tol=1e-3, max_iter=50):
     target_rss = n * estimated_noise_var
 
     # Initialize the Bisection Search bounds
-    lambda_low = 0.000001
-    lambda_high = 3000.0  # Make sure this is high enough to suppress all spikes
+    lambda_low = 0
+    lambda_high = 100.0  # Make sure this is high enough to suppress all spikes
 
     print(f"Target RSS: {target_rss:.4f}")
 
