@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 4,
+    "TP": 24,
+    "FP": 63,
+    "TN": 4698,
+    "FN": 15,
+    "Precision": 0.2759,
+    "Recall": 0.6154,
+    "F1_Score": 0.381,
+    "Balanced_Accuracy": 0.8011,
+    "dataset_name": "DS20-jRCaMP1a-m-V1",
+    "optimal_lambda": 0.02149260690016419
+}

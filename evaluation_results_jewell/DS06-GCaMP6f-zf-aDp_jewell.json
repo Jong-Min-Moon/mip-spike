@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 7,
+    "TP": 163,
+    "FP": 68,
+    "TN": 3208,
+    "FN": 161,
+    "Precision": 0.7056,
+    "Recall": 0.5031,
+    "F1_Score": 0.5874,
+    "Balanced_Accuracy": 0.7412,
+    "dataset_name": "DS06-GCaMP6f-zf-aDp",
+    "optimal_lambda": 0.0518798828125
+}

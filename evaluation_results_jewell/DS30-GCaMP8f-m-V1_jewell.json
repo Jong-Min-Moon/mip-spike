@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 25,
+    "TP": 124,
+    "FP": 203,
+    "TN": 19192,
+    "FN": 1,
+    "Precision": 0.3792,
+    "Recall": 0.992,
+    "F1_Score": 0.5487,
+    "Balanced_Accuracy": 0.9908,
+    "dataset_name": "DS30-GCaMP8f-m-V1",
+    "optimal_lambda": 0.0507354736328125
+}

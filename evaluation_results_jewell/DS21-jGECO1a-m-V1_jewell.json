@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 6,
+    "TP": 125,
+    "FP": 520,
+    "TN": 4904,
+    "FN": 1,
+    "Precision": 0.1938,
+    "Recall": 0.9921,
+    "F1_Score": 0.3243,
+    "Balanced_Accuracy": 0.9481,
+    "dataset_name": "DS21-jGECO1a-m-V1",
+    "optimal_lambda": 0.004315376281738281
+}

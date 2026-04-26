@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 7,
+    "TP": 107,
+    "FP": 15,
+    "TN": 2666,
+    "FN": 1054,
+    "Precision": 0.877,
+    "Recall": 0.0922,
+    "F1_Score": 0.1668,
+    "Balanced_Accuracy": 0.5433,
+    "dataset_name": "DS27-GCaMP6f-m-PV-vivo-V1",
+    "optimal_lambda": 0.06299583540547715
+}

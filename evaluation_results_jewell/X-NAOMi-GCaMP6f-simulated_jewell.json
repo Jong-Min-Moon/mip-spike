@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 6,
+    "TP": 134,
+    "FP": 128,
+    "TN": 4673,
+    "FN": 65,
+    "Precision": 0.5115,
+    "Recall": 0.6734,
+    "F1_Score": 0.5813,
+    "Balanced_Accuracy": 0.8234,
+    "dataset_name": "X-NAOMi-GCaMP6f-simulated",
+    "optimal_lambda": 0.03302791602672883
+}

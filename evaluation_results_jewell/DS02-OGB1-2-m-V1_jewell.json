@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 4,
+    "TP": 26,
+    "FP": 24,
+    "TN": 2263,
+    "FN": 5,
+    "Precision": 0.52,
+    "Recall": 0.8387,
+    "F1_Score": 0.642,
+    "Balanced_Accuracy": 0.9141,
+    "dataset_name": "DS02-OGB1-2-m-V1",
+    "optimal_lambda": 0.005340576171875
+}

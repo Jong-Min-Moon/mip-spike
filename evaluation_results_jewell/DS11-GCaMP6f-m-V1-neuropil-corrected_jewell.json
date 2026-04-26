@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 32,
+    "TP": 49,
+    "FP": 229,
+    "TN": 29700,
+    "FN": 22,
+    "Precision": 0.1763,
+    "Recall": 0.6901,
+    "F1_Score": 0.2808,
+    "Balanced_Accuracy": 0.8412,
+    "dataset_name": "DS11-GCaMP6f-m-V1-neuropil-corrected",
+    "optimal_lambda": 0.128173828125
+}

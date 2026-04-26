@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 4,
+    "TP": 13,
+    "FP": 6,
+    "TN": 572,
+    "FN": 9,
+    "Precision": 0.6842,
+    "Recall": 0.5909,
+    "F1_Score": 0.6341,
+    "Balanced_Accuracy": 0.7903,
+    "dataset_name": "DS18-R-CaMP-m-CA3",
+    "optimal_lambda": 0.0579833984375
+}

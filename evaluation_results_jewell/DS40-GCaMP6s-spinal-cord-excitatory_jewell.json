@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 9,
+    "TP": 358,
+    "FP": 91,
+    "TN": 7066,
+    "FN": 542,
+    "Precision": 0.7973,
+    "Recall": 0.3978,
+    "F1_Score": 0.5308,
+    "Balanced_Accuracy": 0.6925,
+    "dataset_name": "DS40-GCaMP6s-spinal-cord-excitatory",
+    "optimal_lambda": 0.01316070556640625
+}

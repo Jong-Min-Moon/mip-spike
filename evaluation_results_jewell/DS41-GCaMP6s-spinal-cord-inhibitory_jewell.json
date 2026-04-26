@@ -1,0 +1,13 @@
+{
+    "Slack_Frames": 1,
+    "TP": 59,
+    "FP": 9,
+    "TN": 270,
+    "FN": 158,
+    "Precision": 0.8676,
+    "Recall": 0.2719,
+    "F1_Score": 0.414,
+    "Balanced_Accuracy": 0.6198,
+    "dataset_name": "DS41-GCaMP6s-spinal-cord-inhibitory",
+    "optimal_lambda": 0.029922758822298334
+}
